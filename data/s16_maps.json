@@ -1,0 +1,146 @@
+{
+    "Aatlis": {
+        "name": "Aatlis",
+        "image": "https://overfast-api.tekrop.fr/static/maps/aatlis.jpg"
+    },
+    "Antarctic Peninsula": {
+        "name": "Antarctic Peninsula",
+        "image": "https://overfast-api.tekrop.fr/static/maps/antarctic-peninsula.jpg"
+    },
+    "Arena Victoriae": {
+        "name": "Arena Victoriae",
+        "image": "https://overfast-api.tekrop.fr/static/maps/arena-victoriae.jpg"
+    },
+    "Blizzard World": {
+        "name": "Blizzard World",
+        "image": "https://overfast-api.tekrop.fr/static/maps/blizzard-world.jpg"
+    },
+    "Busan": {
+        "name": "Busan",
+        "image": "https://overfast-api.tekrop.fr/static/maps/busan.jpg"
+    },
+    "Circuit Royal": {
+        "name": "Circuit Royal",
+        "image": "https://overfast-api.tekrop.fr/static/maps/circuit-royal.jpg"
+    },
+    "Colosseo": {
+        "name": "Colosseo",
+        "image": "https://overfast-api.tekrop.fr/static/maps/colosseo.jpg"
+    },
+    "Dorado": {
+        "name": "Dorado",
+        "image": "https://overfast-api.tekrop.fr/static/maps/dorado.jpg"
+    },
+    "Eichenwalde": {
+        "name": "Eichenwalde",
+        "image": "https://overfast-api.tekrop.fr/static/maps/eichenwalde.jpg"
+    },
+    "Esperança": {
+        "name": "Esperança",
+        "image": "https://overfast-api.tekrop.fr/static/maps/esperanca.jpg"
+    },
+    "Gogadoro": {
+        "name": "Gogadoro",
+        "image": "https://overfast-api.tekrop.fr/static/maps/gogadoro.jpg"
+    },
+    "Hanaoka": {
+        "name": "Hanaoka",
+        "image": "https://overfast-api.tekrop.fr/static/maps/hanaoka.jpg"
+    },
+    "Havana": {
+        "name": "Havana",
+        "image": "https://overfast-api.tekrop.fr/static/maps/havana.jpg"
+    },
+    "Hollywood": {
+        "name": "Hollywood",
+        "image": "https://overfast-api.tekrop.fr/static/maps/hollywood.jpg"
+    },
+    "Ilios": {
+        "name": "Ilios",
+        "image": "https://overfast-api.tekrop.fr/static/maps/ilios.jpg"
+    },
+    "Junkertown": {
+        "name": "Junkertown",
+        "image": "https://overfast-api.tekrop.fr/static/maps/junkertown.jpg"
+    },
+    "Lijiang Tower": {
+        "name": "Lijiang Tower",
+        "image": "https://overfast-api.tekrop.fr/static/maps/lijiang-tower.jpg"
+    },
+    "King’s Row": {
+        "name": "King’s Row",
+        "image": "https://overfast-api.tekrop.fr/static/maps/kings-row.jpg"
+    },
+    "Midtown": {
+        "name": "Midtown",
+        "image": "https://overfast-api.tekrop.fr/static/maps/midtown.jpg"
+    },
+    "Nepal": {
+        "name": "Nepal",
+        "image": "https://overfast-api.tekrop.fr/static/maps/nepal.jpg"
+    },
+    "New Junk City": {
+        "name": "New Junk City",
+        "image": "https://overfast-api.tekrop.fr/static/maps/new-junk-city.jpg"
+    },
+    "New Queen Street": {
+        "name": "New Queen Street",
+        "image": "https://overfast-api.tekrop.fr/static/maps/new-queen-street.jpg"
+    },
+    "Numbani": {
+        "name": "Numbani",
+        "image": "https://overfast-api.tekrop.fr/static/maps/numbani.jpg"
+    },
+    "Oasis": {
+        "name": "Oasis",
+        "image": "https://overfast-api.tekrop.fr/static/maps/oasis.jpg"
+    },
+    "Paraíso": {
+        "name": "Paraíso",
+        "image": "https://overfast-api.tekrop.fr/static/maps/paraiso.jpg"
+    },
+    "Place Lacroix": {
+        "name": "Place Lacroix",
+        "image": "https://overfast-api.tekrop.fr/static/maps/place-lacroix.jpg"
+    },
+    "Redwood Dam": {
+        "name": "Redwood Dam",
+        "image": "https://overfast-api.tekrop.fr/static/maps/redwood-dam.jpg"
+    },
+    "Rialto": {
+        "name": "Rialto",
+        "image": "https://overfast-api.tekrop.fr/static/maps/rialto.jpg"
+    },
+    "Route 66": {
+        "name": "Route 66",
+        "image": "https://overfast-api.tekrop.fr/static/maps/route-66.jpg"
+    },
+    "Runasapi": {
+        "name": "Runasapi",
+        "image": "https://overfast-api.tekrop.fr/static/maps/runasapi.jpg"
+    },
+    "Samoa": {
+        "name": "Samoa",
+        "image": "https://overfast-api.tekrop.fr/static/maps/samoa.jpg"
+    },
+    "Shambali Monastery": {
+        "name": "Shambali Monastery",
+        "image": "https://overfast-api.tekrop.fr/static/maps/shambali-monastery.jpg"
+    },
+    "Suravasa": {
+        "name": "Suravasa",
+        "image": "https://overfast-api.tekrop.fr/static/maps/suravasa.jpg"
+    },
+    "Throne of Anubis": {
+        "name": "Throne of Anubis",
+        "image": "https://overfast-api.tekrop.fr/static/maps/throne-of-anubis.jpg"
+    },
+    "Watchpoint: Gibraltar": {
+        "name": "Watchpoint: Gibraltar",
+        "image": "https://overfast-api.tekrop.fr/static/maps/watchpoint-gibraltar.jpg"
+    },
+    "Wuxing University": {
+        "name": "Wuxing University",
+        "image": "https://overfast-api.tekrop.fr/static/maps/wuxing-university.jpg"
+    }
+}

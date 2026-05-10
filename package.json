@@ -1,0 +1,11 @@
+{
+  "name": "overwatch-dashboard-workspace",
+  "private": true,
+  "scripts": {
+    "install:web": "npm --prefix overwatch-nexus-web install",
+    "install:py": "python -m pip install -r requirements.txt",
+    "dev": "npm --prefix overwatch-nexus-web run dev",
+    "dev:web": "npm --prefix overwatch-nexus-web run dev",
+    "dev:app": "python -m streamlit run app.py"
+  }
+}
